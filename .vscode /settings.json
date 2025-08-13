@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.formatOnSave": true,
+  "[python]": { "editor.defaultFormatter": "ms-python.black-formatter" },
+  "ruff.organizeImports": true,
+  "ruff.lint.args": ["--select=E,F,I,UP,ISC,B,PLE"]
+}
