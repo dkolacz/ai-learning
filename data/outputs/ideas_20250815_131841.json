@@ -1,0 +1,34 @@
+{
+  "ideas": [
+    {
+      "title": "Smart Pricing Optimizer",
+      "problem": "Hosts struggle to set competitive pricing that maximizes occupancy and revenue.",
+      "impact": 8,
+      "effort": 5
+    },
+    {
+      "title": "Automated Guest Communication Assistant",
+      "problem": "Managing guest inquiries and communication can be time-consuming and inconsistent.",
+      "impact": 7,
+      "effort": 4
+    },
+    {
+      "title": "Review Sentiment Analyzer",
+      "problem": "Hosts need to understand guest feedback to improve their offerings but often overlook key insights.",
+      "impact": 6,
+      "effort": 3
+    },
+    {
+      "title": "Virtual Property Staging Tool",
+      "problem": "Hosts find it challenging to showcase their properties effectively in listings.",
+      "impact": 9,
+      "effort": 6
+    },
+    {
+      "title": "Maintenance Prediction System",
+      "problem": "Hosts often face unexpected maintenance issues that can disrupt guest experiences.",
+      "impact": 8,
+      "effort": 7
+    }
+  ]
+}

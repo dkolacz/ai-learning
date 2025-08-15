@@ -1,0 +1,5 @@
+1. **Dynamic Pricing Optimization**: Automates rate adjustments based on market trends, competition, and seasonal demand to maximize revenue.
+
+2. **Smart Guest Communication**: Provides AI-driven chatbots that handle inquiries and booking confirmations, ensuring timely responses to potential guests.
+
+3. **Personalized Marketing Campaigns**: Analyzes guest data to tailor promotional offers and recommendations, enhancing the likelihood of bookings and repeat stays.

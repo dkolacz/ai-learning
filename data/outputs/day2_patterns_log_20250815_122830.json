@@ -1,0 +1,10 @@
+{
+  "ts": "20250815_122830",
+  "patterns": [
+    "responses",
+    "chat",
+    "multi_turn",
+    "temp_sweep",
+    "json_lite"
+  ]
+}
